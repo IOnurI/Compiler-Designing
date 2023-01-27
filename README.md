@@ -1,6 +1,7 @@
 # Compiler-Designing
 
-This is a custom compiler that accepts the reverse syntax than its used to be
+This is a custom compiler that accepts the reverse syntax than its used to be. <br />
+Used flex for lexical analysing and bison for parser. <br />
 
 Run instructions: <br />
 1- Move required files to desktop <br />
